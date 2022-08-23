@@ -1,2 +1,2 @@
-# cernvm
-CernVM Main Repository
+# CernVM
+CernVM Main Repository, currently used for bug submission
